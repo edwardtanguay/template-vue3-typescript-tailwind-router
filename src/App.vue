@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { RouterView } from 'vue-router'
 import SiteTitle from './components/SiteTitle.vue'
 import SiteNav from './components/SiteNav.vue'
 </script>
@@ -14,6 +13,6 @@ import SiteNav from './components/SiteNav.vue'
 			</div>
 		</header>
 
-		<RouterView />
+		<router-view />
 	</main>
 </template>

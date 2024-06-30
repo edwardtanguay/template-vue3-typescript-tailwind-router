@@ -1,5 +1,5 @@
-- .. change to pages/PageHome.vue
-- router-view
+- x change to pages/PageHome.vue
+- .. router-view
 - about page 
 	- class out
 	- just p tag
