@@ -5,8 +5,8 @@
 	- x class out
 	- x just p tag
 - x all pages sections
-- .. vercel.json
-- HelloWorld out
+- x vercel.json
+- .. HelloWorld out
 - 404 page
 - remove H1s, change to H2
 - replace all ../ with @/
