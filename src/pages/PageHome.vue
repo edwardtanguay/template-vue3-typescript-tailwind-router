@@ -3,7 +3,7 @@ import InfoItem from '../components/InfoItem.vue'
 </script>
 
 <template>
-	<main>
+	<section>
 		<p>Welcome to this site.</p>
 
 		<InfoItem>
@@ -29,7 +29,7 @@ import InfoItem from '../components/InfoItem.vue'
 				<div class="featureBox">Unit Testing</div>
 			</section>
 		</InfoItem>
-	</main>
+	</section>
 </template>
 
 <style scoped lang="scss">

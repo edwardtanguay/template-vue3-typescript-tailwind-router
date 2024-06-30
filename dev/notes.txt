@@ -1,12 +1,13 @@
 - x change to pages/PageHome.vue
 - x router-view
-- .. router-link
-- about page 
-	- class out
-	- just p tag
-- all pages sections
-- vercel.json
+- x router-link
+- x about page 
+	- x class out
+	- x just p tag
+- x all pages sections
+- .. vercel.json
 - HelloWorld out
+- 404 page
 - remove H1s, change to H2
 - replace all ../ with @/
 - README: add link to showcase
