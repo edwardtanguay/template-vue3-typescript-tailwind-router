@@ -1,0 +1,11 @@
+- change to pages/PageHome.vue
+- router-view
+- about page 
+	- class out
+	- just p tag
+- all pages sections
+- vercel.json
+- HelloWorld out
+- remove H1s, change to H2
+- replace all ../ with @/
+- README: add link to showcase
