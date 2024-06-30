@@ -8,6 +8,5 @@
 - x vercel.json
 - x HelloWorld out
 - x 404 page
-- .. remove H1s, change to H2
-- replace all ../ with @/
-- README: add link to showcase
+- x replace all ../ with @/
+- .. README: add link to showcase

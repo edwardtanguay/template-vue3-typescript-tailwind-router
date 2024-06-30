@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import InfoItem from '../components/InfoItem.vue'
+import InfoItem from '@/components/InfoItem.vue'
 </script>
 
 <template>

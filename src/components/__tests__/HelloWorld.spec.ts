@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 
 import { mount } from '@vue/test-utils'
-import SiteTitle from '../SiteTitle.vue'
+import SiteTitle from '@/SiteTitle.vue'
 
 describe('SiteTitle', () => {
 	it('renders properly', () => {

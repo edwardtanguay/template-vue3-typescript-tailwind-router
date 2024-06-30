@@ -4,6 +4,8 @@ This is a Vue3 template site created 2024-06-30.
 
 Live site: https://template-vue3-typescript-tailwind-router.vercel.app
 
+If you are looking for a Vue 3 starter site with more features, e.g. list/single items, see [vue3-showcase-site](https://github.com/edwardtanguay/vue3-showcase-site)
+
 ![templatevue3](https://github.com/edwardtanguay/vue3-showcase-site/assets/446574/32965f7b-00b7-47f2-aca0-d0de78268264)
 
 ## tech features
